@@ -1,0 +1,38 @@
+[
+   {
+      "id": 1,
+      "image": "/01.jpg",
+      "title": "Título de la habitación 1",
+      "status": true
+   },
+   {
+      "id": 2,
+      "image": "/02.jpg",
+      "title": "Título de la habitación 2",
+      "status": false
+   },
+   {
+      "id": 3,
+      "image": "/03.jpg",
+      "title": "Título de la habitación 3",
+      "status": true
+   },
+   {
+      "id": 4,
+      "image": "/04.jpg",
+      "title": "Título de la habitación 4",
+      "status": false
+   },
+   {
+      "id": 5,
+      "image": "/05.jpg",
+      "title": "Título de la habitación 5",
+      "status": true
+   },
+   {
+      "id": 6,
+      "image": "/06.jpg",
+      "title": "Título de la habitación 6",
+      "status": true
+   }
+]
